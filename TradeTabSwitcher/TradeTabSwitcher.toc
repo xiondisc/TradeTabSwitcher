@@ -1,0 +1,9 @@
+## Interface: 16000, 16001, 120100
+## Title: Trade Tab Switcher
+## Notes: Automatically switches to your Trade chat tab when the Trade channel is available.
+## Author: GitHub Copilot
+## Version: 1.0.0
+## SavedVariables: TradeTabSwitcherDB
+
+embeds.xml
+TradeTabSwitcher.lua
