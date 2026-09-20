@@ -11,7 +11,6 @@ Just make sure they're both the same name! :)
 - Detects Trade channel joining and leaving.
 - Rechecks after login, reloads, zoning, and channel UI updates.
 - Doesn't change tabs while you're typing!
-- Applies a cooldown (15 seconds by default) between automatic tab changes.
 - Stops auto-switching after a manual tab change until Trade access is lost and regained.
 
 ## Installation
